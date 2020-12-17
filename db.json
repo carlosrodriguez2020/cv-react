@@ -1,0 +1,26 @@
+{
+    "elemetos":[
+        {
+
+            "nombre":"imagen 1",
+            "comentario":"imagen muy copada",
+            "categoria":"categoria copada",
+            "id":1
+        },
+        {
+
+            "nombre":"imagen2",
+            "comentario":"imagen muy copada 2",
+            "categoria":"categoria deslumbrante",
+            "id":2
+        },
+        {
+
+            "nombre":"imagen 3",
+            "comentario":"imagen muy copada 3",
+            "categoria":"categoria Exitosa",
+            "id":3
+        }
+
+    ]
+}
